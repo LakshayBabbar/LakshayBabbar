@@ -44,6 +44,6 @@
 
 ###
 
-https://raw.githubusercontent.com/lakshaybabbar/lakshaybabbar/output/snake.svg
+https://raw.githubusercontent.com/lakshaybabbar/lakshaybabbar/output/github-contribution-grid-snake-dark.svg
 
 ###
